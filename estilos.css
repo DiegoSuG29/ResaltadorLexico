@@ -1,0 +1,43 @@
+#titulo{
+    font-family: 'Arial';
+    color: darkblue;
+    font-weight: bold;
+}
+
+#fondo{
+    background-color: lightgray;
+    font-size: large;
+}
+
+.enteros{ background-color: green;}
+.floats{ background-color: red;}
+.tipodato{ background-color: aquamarine;}
+.opa{ background-color: yellow;}
+.opl{ background-color: orange;}
+.bools{ background-color: blueviolet;}
+.seps{ background-color: palevioletred;}
+.commts{ background-color: lightgreen;}
+.libs{ background-color: darkcyan;}
+.prsv{ background-color: darkmagenta;}
+.vrbls{ background-color: darkred;}
+.strs{ background-color: white;}
+.ptrs{ background-color: darkgoldenrod;}
+.funcion{ background-color: blanchedalmond;}
+
+.lyd {list-style: none;}
+.lyd li {float: left; margin-right: 10px;}
+.lyd span {border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; }
+.lyd .enteros { background-color: green;}
+.lyd .floats {background-color: red;}
+.lyd .tipodato {background-color: aquamarine;}
+.lyd .opa{background-color: yellow;}
+.lyd .opl{background-color: orange;}
+.lyd .bools{background-color: blueviolet;}
+.lyd .seps{background-color: palevioletred;}
+.lyd .commts{background-color: lightgreen;}
+.lyd .libs{background-color: darkcyan;}
+.lyd .prsv{background-color: darkmagenta;}
+.lyd .vrbls{background-color: darkred;}
+.lyd .strs{background-color: white;}
+.lyd .ptrs{background-color: darkgoldenrod;}
+.lyd .funcion{background-color: blanchedalmond;}
